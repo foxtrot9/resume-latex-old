@@ -9,7 +9,7 @@ My personal resume in latex.
 ### Compilation:
 ```
 xelatex cv.pdf
-evince cv.pdf // For pdf preview
+evince cv.pdf #For pdf preview
 ```
 
 Fontin fonts are free fonts and provided by **Jos Buivenga** (exljbris) -> [www.exljbris.com](http://www.exljbris.com/fontin.html).
