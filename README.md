@@ -4,7 +4,7 @@ My personal resume in latex.
 1. xelatex
 2. fontawesome.sty
 3. fontin OTF files in same folder as .tex file.
-4. Other common packages
+4. Packages: `fontspec`, `fontawesome`, `hyperref`, `xcolor`, `layaureo`, `titlesec`, `fancyhdr`, `textpos`.
 
 ### Compilation:
 ```
